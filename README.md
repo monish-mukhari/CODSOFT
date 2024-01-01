@@ -24,6 +24,6 @@ TASK 3: 𝘐𝘔𝘈𝘎𝘌 𝘊𝘈𝘗𝘛𝘐𝘖𝘕𝘐𝘕𝘎
 
 "Combine computer vision and natural language processing to build an image captioning AI."
 
-Dataset: https://www.kaggle.com/datasets/adityajn105/flickr8k  
+Dataset: https://www.tensorflow.org/datasets/catalog/coco_captions 
 
 
