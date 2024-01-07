@@ -26,4 +26,12 @@ TASK 3: 𝘐𝘔𝘈𝘎𝘌 𝘊𝘈𝘗𝘛𝘐𝘖𝘕𝘐𝘕𝘎
 
 Dataset: https://www.tensorflow.org/datasets/catalog/coco_captions 
 
+TASK 4:
+𝘙𝘌𝘊𝘖𝘔𝘔𝘌𝘕𝘋𝘈𝘛𝘐𝘖𝘕 𝘚𝘠𝘚𝘛𝘌𝘔
+
+"Building a simple recommendation system that suggests items to
+ users based on their preferences. Using techniques like
+ collaborative filtering or content-based filtering to recommend
+ movies, books, or products to users."
+
 
